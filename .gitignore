@@ -1,0 +1,12 @@
+# Raw Synthea output / large data dumps (don't commit big CSVs)
+/output/
+/data/
+*.csv
+
+# Allow small curated sample/result files if you want them tracked:
+!projects/**/results/*.csv
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.tmp
