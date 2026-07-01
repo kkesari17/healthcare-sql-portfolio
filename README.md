@@ -68,6 +68,6 @@ I keep a running [learning journal](learning-journal.md) documenting what I stud
 ## About me
 
 <!-- TODO: fill these in -->
-- **Name:** [Your name]
+- **Name:** Kiran Kesari
 - **Focus:** Aspiring EHR / Epic Applications Analyst
-- **Contact:** [email] · [LinkedIn]
+- **Contact:** kiranskesari@gmail.com · https://www.linkedin.com/in/kiran-kesari/
