@@ -14,10 +14,14 @@ A running log of what I learn, build, and work through. One short entry per stud
 
 ---
 
-### 2025-01-01 — Week 1, Day 1
-- **Learned:** Set up the portfolio repository structure and documentation system. Reviewed how a project README should frame a clinical/operational question.
-- **Built:** Created the GitHub repo `healthcare-sql-portfolio` and scaffolded the README, roadmap, journal, setup notes, data dictionary, and first project folder.
-- **Stuck on / solved:** *(example — replace with your own)* Needed to create nested folders on GitHub; learned you can do it by typing a path like `setup/environment-setup.md` when creating a new file.
-- **Next:** Install SQL Server 2022 + SSMS and start generating Synthea data.
+### 2026-07-01 — Day 0 (setup / pre-start)
+- **Learned:** How a project README should frame a clinical/operational question. The core Git workflow (add, commit, push) and what common errors mean — unknown author identity, diverged branches / `git pull --rebase`, and the difference between my home folder and my repo folder.
+- **Built:** Created the GitHub repo `healthcare-sql-portfolio` and scaffolded the full documentation system — README, roadmap, setup notes, data dictionary, first project folder — plus `LEARNING.md`.
+- **Stuck on / solved:** A push kept reporting "nothing to commit" until I realized the scaffold files weren't copied into the repo folder yet. Later a push was rejected for diverged branches, fixed with `git pull --rebase`. Lesson: the prompt shows my current folder and branch — check it first.
+- **Next:** Official Day 1 — install SQL Server 2022 + SSMS and verify a working database environment.
 
-<!-- Add your next entry above this line, newest at the bottom or top — just stay consistent. -->
+### 2026-07-02 — Week 1, Day 1
+- **Learned:** 
+- **Built:** 
+- **Stuck on / solved:** 
+- **Next:**
